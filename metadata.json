@@ -1,0 +1,7 @@
+{
+  "name": "Transkrip Otomatis ",
+  "description": "An application for Public Relations (PR) agencies to manage and analyze video and audio content using AI-powered transcription, summarization, and content understanding.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
